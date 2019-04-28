@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052892730841",
+    "firebase_url": "https://albergue-cdi-zongolica.firebaseio.com",
+    "project_id": "albergue-cdi-zongolica",
+    "storage_bucket": "albergue-cdi-zongolica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052892730841:android:bcbcc4e5fa7f737d",
+        "android_client_info": {
+          "package_name": "com.juarez.alberguecdizong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052892730841-bdmbm8od8pjlf8pul4dqoo3soerhl2he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juarez.alberguecdizong",
+            "certificate_hash": "9ce69fdcef034d24c8ffccd45fe803d3e92f9533"
+          }
+        },
+        {
+          "client_id": "1052892730841-1st6cj56nbu17fa2k4fm7tmjnok8u73v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3XHFENHRhKP3a1Cku6aGEDbeu4aFwS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052892730841-1st6cj56nbu17fa2k4fm7tmjnok8u73v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
